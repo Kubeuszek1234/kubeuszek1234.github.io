@@ -1,1 +1,0 @@
-# kubeuszek1234.github.io

@@ -1,5 +1,10 @@
-
-  <html>
-    <body>
-    </body>
-  </html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Pierwsza strona </title>
+	</head>
+	<body>
+		<h1> Kuba Domagala 2b i moja strona </h1>
+	</body>
+</html>
+	
